@@ -11,7 +11,8 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I’m genuinely passionate about coding.
 
-🔹 About Me
+🔹 About Me:
+
    Hi, I’m Mostafizur Rahman — a passionate developer who enjoys turning ideas into real, functional applications. I specialize in PHP, Laravel, and modern frontend development, and I am actively working toward becoming a full-stack Laravel developer.
    I love exploring new technologies, building clean and maintainable codebases, and continuously improving my skills through hands-on projects. My long-term goal is to contribute to impactful software and grow as a professional developer.
 
@@ -29,7 +30,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizurrahmanriaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mostafizurrahmanriaz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mostafizurrahmanriaz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
