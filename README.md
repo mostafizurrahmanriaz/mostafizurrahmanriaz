@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Web development projects
 - 🤔 I’m looking for help with Web development
 - 💬 Ask me about Web development
-- 📫 How to reach me: Linkedin - mostafizur-rahman-198515357
+- 📫 How to reach me: Linkedin - www.linkedin.com/in/mostafizurrahmanriaz
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I’m genuinely passionate about coding.
 
